@@ -16,5 +16,3 @@ GetCameraRot : 0x7B0
 GetPlayerViewPoint : 0x7A8
 GetControlRotation : 0x710
 SetControlRotation : 0x718
-
-
